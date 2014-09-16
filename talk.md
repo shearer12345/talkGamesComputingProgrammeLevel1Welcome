@@ -1,15 +1,19 @@
 #Games Computing Programme Level 1 Welcome
 
-Note: Resources?? Attendance?
+Note: Resources?? Morrison's? Attendance?
 
 - overview
 - we're going to play a bunch of games during this session
   - WOOT!!
-  - you likely will win some, lose some, but you'll play them all :-)
   - we'll have some prizes
 
 
 - First off, a bunch of mundane stuff
+- staff intro?
+
+
+
+##Game city trip
 
 
 
@@ -18,7 +22,9 @@ Note: Resources?? Attendance?
 1. Get into pairs - with your new friends who are near you
 2. Play Rock-Paper-Scissors, best of 3 in your pair
   - 3,2,1,Shoot
-3. All winners on one side of the room, all losers on the other side
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+3. All victors on LHS of the room, everyone else on the RHS
 
 Note: need to split into two teams - doing with Rock-Paper-Scissors
 
@@ -30,9 +36,10 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 
 1. The two sides of the room will race each other to sort themselves (physically) into a specific order (next slide)
   - there will be a sequence of sort constraints, the first is most important, the later ones being use for ambiguous cases
-2. When your team things you are in order, your team will shout out "SORTED!"
-3. We'll then confirm your order. If you're not sorted correctly the other team will win.
-4. The winning team will WIN!
+2. When you think your team is in order, sit down. When your whole team is sitting then jointly shout out **"SORTED!"**
+3. We'll then confirm your order.
+  - If sorted correctly you win
+  - If not, the other team will win
 
 
 
@@ -42,6 +49,8 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 2. **alphabetically** by **THIRD** letter of **LAST** name
 3. **numerically** by the **DAY** in the month of **BIRTHDAY**
 4. by **HEIGHT**
+
+Note: using first names so they get to know each other's name
 
 
 
@@ -56,6 +65,7 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 
 ##Game 4 - Chocolate Game and Paper Game
 
+- Parallel processing
 - LHS of the room will do Chocolate Game, followed by Paper Game
 - RHS of the room will do Paper Game, followed by Chocolate Game
 
@@ -84,26 +94,23 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 
 
 
-##Game 6 - Paper Game
+##Game 6 - Flying Questions Game
 
 - giving you (hopefully fun) opportunity to ask questions
-- online stopwatch??
+
+- will have to fold/shape your piece of paper to get it as far as possible
+  - team who gets their bit of paper the furthest (with writing that fulfils the criteria) will win prizes each (we'll do this as whole at the end)
+
+- at least 4 questions (for me to answer) per team
+- at least 4 answers per team (for "why do you want to be here studying Games Computing?")
 
 1. each team will work together
 2. come get a large sheet of paper
 3. you will have 10 minutes total
-4. no pens for first 3 minutes, then 7 minutes write questions and answers and fold/shape your paper
-5. at least 4 questions per team
-6. at least 4 answer per team
+4. no pens for first 3 minutes (just discuss), then 7 minutes write questions and answers and fold/shape your paper. I'll stop you.
 
-
-- write questions for me to answer
-- write answers to "why do you want to be here studying Games Computing?"
-
-
-- will have to fold/shape your piece of paper to get it as far as possible
-  - team who gets their bit of paper the furthest (with writing that fulfils the criteria) will win prizes each
 
 
 
 ##Me responding to questions and discussing people's answers to why they are here
+
