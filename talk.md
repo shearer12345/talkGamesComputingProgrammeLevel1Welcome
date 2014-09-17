@@ -1,8 +1,6 @@
 #TODO
 
 - showcase videos
-- \#dungeon
-
 
 
 #Games Computing Programme Level 1 Welcome
@@ -536,6 +534,8 @@ Note: using first names so they get to know each other's name
 ##Q&A
 
 - responding to questions and discussing people's answers to "why do you want to be here studying Games Computing?"
+
+<img src="assets/questionMark.jpg" alt="questionMark" height=400>
 
 
 
