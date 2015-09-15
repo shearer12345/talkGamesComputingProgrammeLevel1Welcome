@@ -5,12 +5,14 @@
 - hosted at http://shearer12345.github.io/talkGamesComputingProgrammeLevel1Welcome/
 - source at https://github.com/shearer12345/talkGamesComputingProgrammeLevel1Welcome
 
+
 ## Overview
 
 - we're going to play a bunch of games during this session
   - WOOT!!
   - we'll have some prizes
 - we'll do some mundane stuff too - sorry
+
 
 ## Structure
 
@@ -756,6 +758,3 @@ Note: using first names so they get to know each other's name
 - structure
 - showcase videos
 - staff pics
-
-
-
