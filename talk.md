@@ -1,11 +1,3 @@
-# TODO
-
-- structure
-- showcase videos
-- staff pics
-
-
-
 # Welcome
 
 ## to Games Computing
@@ -757,3 +749,13 @@ Note: using first names so they get to know each other's name
 ## Stay behind for a chat if you like
 
 <img src="assets/shearerThom.jpg" alt="shearerThom" height=400>
+
+
+# TODO
+
+- structure
+- showcase videos
+- staff pics
+
+
+
