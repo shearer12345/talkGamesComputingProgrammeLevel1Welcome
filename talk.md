@@ -1,110 +1,246 @@
-#TODO
+# TODO
 
+- structure
 - showcase videos
-
-
-#Games Computing Programme Level 1 Welcome
+- staff pics
 
 
 
-##Overview
+# Welcome
+
+## to Games Computing
+
+- hosted at http://shearer12345.github.io/talkGamesComputingProgrammeLevel1Welcome/
+- source at https://github.com/shearer12345/talkGamesComputingProgrammeLevel1Welcome
+
+## Overview
 
 - we're going to play a bunch of games during this session
   - WOOT!!
   - we'll have some prizes
+- we'll do some mundane stuff too - sorry
 
-
-##Structure
-
-- quick showcase
-  - including #dungeon
-- about me (Shearer)
-- a bunch of mundane stuff
-- games and more games
-- Q&A session
-
-
-
-##Showcase
+## Structure
 
 - TODO
 
 
-##Games Research Group
 
-- promoting and exposing games-related research
-- http://games.lincoln.ac.uk
+## About us
+### your games specific staff
 
 
-##\#Dungeon
+## Games @ IntLab
 
-- hashtagDungeon
+- most of your games specific modules are taught by people active in games-related research
+- these people are members on the Games subgroup of the Interactive Technologies Lab (IntLab)
+  - http://games.lincoln.ac.uk
+
+
+
+## John Shearer
+
+- Programme Leader for Games Computing
+- Senior Lecturer
+
+<img src="assets/shearer.jpg" alt="Shearer" height=300>
+<img src="assets/shearerTreeJump.jpg" alt="Shearer" height=300>
+
+### Contact Details
+
+email
+: **jshearer@lincoln.ac.uk**
+
+office
+: MC3116 (MHT building)
+
+
+### Bio
+
+<img src="assets/aquariumcforlife2.jpg" alt="aquariumcforlife2" height=200>
+<img src="assets/humanaquariumAction.jpg" alt="humanaquariumAction" height=200>
+<img src="assets/smallbird.jpg" alt="smallbird" height=200>
+<img src="assets/nightingalleryBarkers.png" alt="nightingalleryBarkers" height=200>
+<img src="assets/eyeResonator.jpg" alt="eyeResonator" height=200>
+<img src="assets/eyeResonatorBoids.png" alt="eyeResonatorBoids" height=200>
+
+- EyeResonator - http://www.eyeresonator.com
+- nightingallery- http://www.robyntaylor.com/nightingallery.html
+- humanaquarium- http://humanaquarium.org/
+
+
+
+## Patrick Dickinson
+
+- Deputy Programme Leader for Games Computing
+- Principle Lecturer
+
+<img src="assets/dickinson.jpg" alt="dickinson" height=300>
+
+email
+: **pdickinson@lincoln.ac.uk**
+
+
+### Bio
+
+
+
+## Greg Cielniak
+
+- Senior Lecturer
+
+<img src="assets/cielniak.jpg" alt="cielniak" height=300>
+
+email
+: **gcielniak@lincoln.ac.uk**
+
+
+### Bio
+
+
+
+## Andy Cowe
+
+- Lecturer (part-time)
+
+<img src="assets/cowe.jpg" alt="cowe" height=300>
+
+email
+: **acowe@lincoln.ac.uk**
+
+
+### Bio
+
+
+
+## Mark Doughty
+
+- Principal Lecturer
+
+<img src="assets/doughty.jpg" alt="doughty" height=300>
+
+email
+: **mdoughty@lincoln.ac.uk**
+
+
+### Bio
+
+
+
+## Kathrin Gerling
+
+- Senior Lecturer
+
+<img src="assets/gerling.jpg" alt="gerling" height=300>
+
+email
+: **kgerling@lincoln.ac.uk**
+
+
+### Bio
+
+
+
+## Ben Kirman
+
+- Senior Lecturer
+
+<img src="assets/kirman1.png" alt="rowland" height=300>
+<img src="assets/kirman2.jpg" alt="rowland" height=300>
+
+email
+: **bkirman@lincoln.ac.uk**
+
+
+### Bio
+
+> Twice capped playing for England in the World Egg Throwing
+Championships. Published science fiction, punk songs and homoerotic
+fiction in a major computer science conference, father of the Dog
+Internet and the only computing academic to have had articles about
+their work simultaneously in New Scientist and Your Cat Magazine.
+
+<img src="assets/kirmanNLFS.jpg" alt="kirman" height=200>
+<img src="assets/kirman3.png" alt="kirman" height=200>
+<img src="assets/kirman4.jpg" alt="kirman" height=200>
+
+
+
+## Duncan Rowland
+
+- Reader in Cultural Computing
+
+<img src="assets/rowland.jpg" alt="rowland" height=300>
+<img src="assets/rowland4.jpg" alt="rowland" height=300>
+
+email
+: **drowland@lincoln.ac.uk**
+
+
+### Bio
+
+<img src="assets/colinMcraeRally3.jpg" alt="rowland" height=200>
+<img src="assets/rowlandMFA.jpg" alt="rowland" height=200>
+<img src="assets/rowlandKillers.jpg" alt="rowland" height=200>
+<img src="assets/rowland2.jpg" alt="rowland" height=200>
+<img src="assets/rowland3.jpg" alt="rowland" height=200>
+<img src="assets/rowlandInteractions.jpg" alt="rowland" height=200>
+
+- Lead Programmer (Audio and Tools) Colin McRae Rally 3
+- MA Fine Art - http://issuu.com/duncanrowland/docs/carry_on_regardless/18
+- Art Show Contributions - http://neoalgorist.org/killers/
+- Curatorial Practice
+
+
+
+# \#Dungeon
+
 - http://www.hashtagdungeon.com
 - https://twitter.com/HashtagDungeon
 
+<img src="assets/hashtagdungeon.png" alt="hashtagdungeon" height=500>
 
 
-##About me (Shearer)
+## \#Dungeon Trailer
 
-- Programme Leader for Games Computing
-
-<img src="assets/shearer.jpg" alt="Shearer" >
+<iframe width="960" height="540" src="https://www.youtube.com/embed/nbcpzCUwEMA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
 
-###Contact Details
+## \#Dungeon info
 
-email
-: jshearer@lincoln.ac.uk
-
-phone
-: 01522 837310
-
-office
-: MC3208 (MHT building)
-
-<img src="assets/shearerTreeJump.jpg" alt="Shearer" height=300>
-
-
-###humanAquarium
-
-<img src="assets/aquariumcforlife2.jpg" alt="aquariumcforlife2" height=220>
-<img src="assets/humanAquariumShearerRobyn.jpg" alt="humanAquariumShearerRobyn"height=220 >
-<img src="assets/humanaquariumAction.jpg" alt="humanaquariumAction" height=220>
-
-- http://humanaquarium.org/
-
-
-###nightinGallery
-
-<img src="assets/smallbird.jpg" alt="smallbird" height=500>
-<img src="assets/nightingalleryBarkers.png" alt="nightingalleryBarkers" height=500>
-
-- http://www.robyntaylor.com/nightingallery.html
-
-
-###eyeResonator
-
-<img src="assets/eyeResonator.jpg" alt="eyeResonator" height=300>
-<img src="assets/eyeResonatorBoids.jpg" alt="eyeResonatorBoids" height=300>
-
-- http://www.eyeresonator.com
+- built by two of our (ex) students
+  - **Kieran Hicks** and Sean Oxspring
+- for sale on itch.io NOW
+  - http://oxyoxspring.itch.io/hashtag-dungeon
+- for sale on Steam!!! from October 14th 2015
+- ANY QUESTIONS for Kieran ??
 
 
 
+# Activities
 
-##Game city trip
+<img src="assets/Pulseless_electrical_activity_EKG.svg" alt="activity" height=300>
+
+- things we're organising this coming Semester
+
+
+
+## Game city trip
 
 - http://gamecity.org/
 
 <img src="assets/gameCity.png" alt="gameCity" height=600>
 
 
-###GameCity 9
-###**25 October - 1 November 2014**
-###Nottingham, UK
+### GameCity 10
+### **Thursday 22 - Saturday 31 October 2015**
+### Nottingham, UK
 
 > At last, a videogame festival for everybody.
-  - http://gamecity.org/festival/
+  - http://gamecity.org/open-is-open/
+
+<img src="assets/nva.png" alt="gameCity" height=300>
+
 
 - Every year, the best people in video games from around the world come to Nottingham to have the most fun.
 
@@ -115,16 +251,88 @@ office
 > there is no other festival in the World like GameCity ...
  - *The Guardian*
 
+ <img src="assets/gameCity2.png" alt="gameCity" height=300>
 
 
-##mundane stuff
+### Details to be announced
+
+- Watch for Blackboard announcements
+- All Computer Science students will be invited
+  - Games Computing
+  - Computer Science
+  - Computer Information Systems
+  - Social Computing
+- We'll be booking (free) coaches to/from Nottingham
+
+<img src="assets/coach.jpg" alt="coach" height=300>
+
+
+
+## Frequency festival
+
+**In LINCOLN !!!**  23 OCTOBER - 1 NOVEMBER 2015
+
+<img src="assets/frequencyFestival1.png" alt="frequencyFestival" height=600>
+
+
+## #freq15
+
+> The third edition of Frequency Festival returns to light up Lincoln with extraordinary art exhibitions, interactive performances, and lively conversations. With free events taking place across the city, there will be something for everyone to discover, as we explore ideas of digital liberation.
+
+- http://frequency.org.uk/
+
+
+### go along
+
+- our own "Taphobos" is showing at the weekends
+
+<img src="assets/taphobos.jpg" alt="taphobos" height=250>
+<img src="assets/taphobos2.png" alt="taphobos" height=250>
+<img src="assets/taphobos3.jpg" alt="taphobos" height=250>
+
+- http://taphobos.com/
+
+
+### volunteer
+
+- get involved, help out, meet people, have fun
+- email me if you'd like to volunteer and I'll pass on your details
+  - jshearer@lincoln.ac.uk
+
+
+### guest lecture from **seeper**
+
+- we're working to get a guest lecture / Q&A session / something with seeper
+  - seeper are showing at Frequency Festival
+
+<iframe class="stretch" src="http://player.vimeo.com/video/17113916?title=0" ></iframe>
+
+
+### plan stuff for **frequencyFestival 2017** !!!!!!
+
+- We'll be getting much more involved in Frequency Festival 2017
+  - building games and other interactive experiences for 2017
+
+
+
+## Game jams
+
+- we facilitate these through the year
+- you can organise them also if you like (usually weeks)
+- will be announced through blackboard
+
+<img src="assets/gamejam.png" alt="gamejam" height=300>
+
+
+
+# mundane stuff
 
 <img src="assets/mundane.jpg" alt="mundane" height=500>
 
 [lea-kane.deviantart.com](http://lea-kane.deviantart.com/art/Mundane-Navi-160049442)
 
 
-##Programme Leader Role
+## Programme Leader Role
 
 - Point of contact for students who have difficulties related to the programme
 - Oversee pastoral care of students
@@ -132,7 +340,7 @@ office
 - Respond to issues raised by students and staff of a programme nature
 
 
-##We will look at...
+## We will look at...
 
 - The programmes
 - Timetables
@@ -144,7 +352,7 @@ office
 
 
 
-##The programmes
+## The programmes
 
 - 3 or 4 years for the degree
 - 2 Semesters per year (A and B)
@@ -152,21 +360,22 @@ office
 - some modules are 15 CATS points, some of 30
 
 
-###MComp Programmes
+### MComp Programmes
 
 - Some of you are enrolled on MComp rather than BSc...
 - Identical to corresponding BSc programmes for first 3 years
-- Final year: 2 projects, and optional module(s)
+- Final year: More advanced stuff, more project work
 - Points to remember:
   - Same assessments, but pass mark is higher (50%) in years 2 and 3
   - You can transfer later between BSc and MComp (either way)
 
 
-###Level 1 Modules
+### Level 1 Modules
 
 | Module | Semesters | CATS |
 |---|---|---|
 | Programming and Data Structures | A&B | 30 |
+| Personal Tutoring (non-assessed) | A&B | n/a |
 | Maths for Computing | A | 15 |
 | Web Authoring | A | 15 |
 | Introductory Game Studies | A | 15 |
@@ -175,7 +384,9 @@ office
 | Game Design  | B | 15 |
 
 
-###Level 2
+### Level 2
+
+- not definitive
 
 | Module | Semesters | CATS |
 | ---|---|---|
@@ -189,7 +400,9 @@ office
 | Artificial Intelligence | B | 15 |
 
 
-###Level 3
+### Level 3
+
+- not definitive
 
 | Module | Semesters | CATS |
 | ---|---|---|
@@ -201,7 +414,9 @@ office
 | *option* | B | 15 |
 
 
-####Level 3 Options:
+#### Level 3 Options:
+
+- not definitive
 
 | Option | Semesters | CATS |
 | ---|---|---|
@@ -216,7 +431,9 @@ office
 | Critical Perspectives on Project Management | B | 15 |
 
 
-###Level 4
+### Level 4
+
+- not definitive
 
 | Module | Semesters | CATS |
 | ---|---|---|
@@ -227,7 +444,9 @@ office
 | Movement Interfaces | B | 15 |
 
 
-####Level 4 Options:
+#### Level 4 Options:
+
+- not definitive
 
 | Option | Semesters | CATS |
 | ---|---|---|
@@ -240,63 +459,61 @@ office
 
 
 
-##Timetables
+## Timetables
 
 - Your timetable should be available when you log on to the university computer system
 - Or via blackboard
-- You are studying 4 modules this semester
-- Each module should have a lecture (1 or 2 hours) + a workshop session(1 or 2 hours)
+- You are studying **4 modules** this semester
+- Each module should have a lecture (1 or 2 hours) & a workshop session (1 or 2 hours)
 - Workshops: Usually in Lab A and B
 - You are expected to attend all timetabled sessions: attendance is monitored
-- Week1: Special Case – Check Blackboard!
+- Week1: You only have workshops in Week 1 if after the lecture for that module ...
 
 
 
-##Where things are
+## Where things are
 
 - the School of Computer Science is mainly based on the third floor of MHT building
   - computing labs
   - most of your lecturer's offices (but not all)
   - college office (admin)
 - Lab sessions always on the third floor, though "pass key" door
-- Access to some staff on the third floor of MHT is through a “pass key” door. Phone on the outside with staff list to contact to be let in.
 
 
 
-##Lab Facilities
+## Lab Facilities
 
 - 3 Computing Labs: 3rd floor MHT building
 - Not running campus install, we manage them and they're on their own subnet
 - All used for workshops, but you can also use them when there are no timetabled workshop sessions on
-  - Lab A: General use (75)
-  - Lab B: Games Development Lab (55)
-  - Lab C: specialist equipment (e.g. Robotics, Creative Suites)
-  - Fairly “fluid” use to accommodate different sessions
+- The PCs are all high-spec.
+  - they are not all identical between labs
+  - they should all have the same software on (in general)
 - All use the username "computing" with the password "computing"
   - these are **NOT** private logins, but give you admin rights
 
 
-##Lab Etiquette
+## Lab Etiquette
 
-- No casual game playing
 - If a workshop session is on - vacate the lab, or do not enter
-- Store your work somewhere reliable
+- **Store your work somewhere reliable** - **IMPORTANT**
   - SkyDrive
-  - github/bitbucket
-  - a memory stick (though they are **NOT ** reliable and get lost)
-  - Consider the machines as non-private, don't store passwords etc
-  - The computers are regularly re-ghosted (any work saved on the local hard-drive will disappear)
-  - Don't bring food and drink into the lab
-  - Treat it like a professional dev studio
+  - github/bitbucket/gitlab
+  - a memory stick (though they are **NOT** reliable and get lost)
+  - losing your work is not an accepted excuse for missed work
+- Consider the machines as non-private, don't store passwords etc
+- Remember to logout from web-services (e.g. facebook, twitter, ...)
+- The computers are regularly re-ghosted (any work saved on the local hard-drive will disappear)
+- Don't bring food and drink into the lab
+- Treat it like a professional dev studio
 
 
-##Other Facilities / Equipment
+## Other Equipment
 
 - Robotics stuff (some new fancy ones, a bunch of Rovios and Roombas kicking around), Lego NXT
 - Quadcopters (John Murray)
-- Xbox 360 development environments
-- use with XNA game studio express (though XNA is deprecated ...)
-- Mobile phones/game platforms
+- Mobile phones
+- VR headsets (Oculus Rifts, ...) + we'll be getting more
 - Ouyas
 - Kinects
 - Some Macs
@@ -305,7 +522,7 @@ office
 
 
 
-##Blackboard
+## Blackboard
 
 <img src="assets/blackboard.jpg" alt="blackboard" height=100>
 
@@ -314,41 +531,44 @@ office
   - Sections for the modules you are studying this semester: lecture notes, workshop materials, etc.
   - announcements, your timetable, etc.
 - Most assessments are submitted electronically through Blackboard.
-- You can test Blackboard on Friday
+- You can (should) test Blackboard on Friday
 
 Note: can demo with login=“astudent”, password=“astudent”
 
 
 
-##Library
+## Library
 
 - Next to the Engine Shed
 - To log into the library system
   - http://www.library.lincoln.ac.uk
-  - Separate username and PIN number (which will be emailed to you)
+  - Separate username and PIN number (check emailed)
   - Access catalogue, reserve/renew books, access e-books
-- Subject Librarian: Adele Beeken
-  - http://staff.lincoln.ac.uk/abeeken
+- Subject Librarian: Carole Bee
+- READ BOOKS and other stuff!!!
+
+<img src="assets/book2.jpg" alt="book2" height=250>
+<img src="assets/library.png" alt="library" height=250>
+<img src="assets/book1.jpg" alt="book1" height=250>
 
 
-
-##Printing
+## Printing
 
 - Large printers around the university
-- You can print from any “standard” computer on campus, and collect from any printer
+- You can print from any "standard" computer on campus, and collect from any printer
   - Or from our Labs
 - To use printers:
   - login using library username and PIN
 
 
 
-##What if I have a Problem?
+## What if I have a Problem?
 
 - Extensive support structure in the University
   - not always obvious where to look for help
 - Academic/work problems:
   - With a particular module: Lecturer / Module Coordinator (not always the same person)
-  - Your programme leader: Me
+  - Your programme leader: Me (John Shearer)
   - Your Head of School: David Cobham
   - You should feel that you can ask any member of staff for advice ...
     - this is part of all the staff members' jobs
@@ -357,9 +577,21 @@ Note: can demo with login=“astudent”, password=“astudent”
 
 
 
-##Extra Curricula Activities
+## Finding and contacting staff
 
-- “is this part of our assessment?”
+- We, like you, are busy people
+- We are not always in our offices
+- Arrange meetings by email
+- Write professional emails ... with our, and your names!!
+- http://www.lincoln.ac.uk/home/socs/schoolstaff/
+
+<img src="assets/email.png" alt="email" height=250>
+
+
+
+## Extra Curricula Activities
+
+- "is this part of our assessment?"
   - Remember why you are here!
 
 - Games jams, game challenges, workshops, competitions...
@@ -368,33 +600,41 @@ Note: can demo with login=“astudent”, password=“astudent”
   - sports and societies
   - etc. etc.
 
+<img src="assets/workLifeBalance.jpg" alt="email" height=250>
 
 
-##Expectations
+
+## Expectations
 
 - Ours?
   - That you tell someone if you have a problem
   - That you attend timetabled sessions
   - That you follow lab rules
   - That you submit assessments on time
-  - That you treat other staff and students appropriately
+  - **That you treat other staff and students appropriately**
   - That you are enthusiastic!
 - Yours?
   - ??
+  - of us?
+  - of each other?
+  - of Uni?
 
 
-##Advice
+## Advice
 
 - Games industry is competitive
 - Work outside your timetabled hours
+  - i.e. 38-40 hours a week ...
 - Find your interests
   - Level design, modding, hacking, mobile computing, etc
   - Your lecturers do more than teach
 - If you have a problem, tell someone
+- Talk to people
+- Read
 
 
 
-##Game Time
+## Game Time
 
 <img src="assets/game_time_by_misslunaviolet-d62z394.jpg" alt="game_time_by_misslunaviolet-d62z394" height=400>
 
@@ -402,12 +642,16 @@ Note: can demo with login=“astudent”, password=“astudent”
 
 
 
-##Game 1
+## FINALLY !!!
+
+
+
+## Game 1
 
 1. Get into pairs - with your new friends who are near you
 
 
-##Game 1 - Rock-Paper-Scissors
+## Game 1 - Rock-Paper-Scissors
 
 1. Get into pairs - with your new friends who are near you
 2. Play Rock-Paper-Scissors, best of 3 in your pair
@@ -419,8 +663,20 @@ Note: can demo with login=“astudent”, password=“astudent”
 Note: need to split into two teams - doing with Rock-Paper-Scissors
 
 
+## Game 1.5 - Rock-Paper-Scissors (again)
 
-##Game 2 - sorting race
+1. Find a new partner (on your side of the room)
+2. Play Rock-Paper-Scissors, best of 3 in your pair
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+3. All victors on front of the room, everyone else to the back
+  - stay on your side of the room
+
+Note: need to split into two teams - doing with Rock-Paper-Scissors
+
+
+## Game 2 - sorting race
 
 - a vaguely Computer Science related game
 
@@ -429,9 +685,9 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 [Light_on_cinema_queue](http://commons.wikimedia.org/wiki/File:Light_on_cinema_queue.jpg)
 
 
-##Game 2 - sorting race
+## Game 2 - sorting race
 
-1. The two sides of the room will race each other to sort themselves (physically) into a specific order (next slide)
+1. The four quarters of the room will race each other to sort themselves (physically) into a specific order (next slide)
   - there will be a sequence of sort constraints, the first is most important, the later ones being use for ambiguous cases
 2. When you think your team is in order, sit down. When your whole team is sitting then jointly shout out **"SORTED!"**
 3. We'll then confirm your order.
@@ -439,7 +695,7 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
   - If not, the other team will win
 
 
-##Game 2 - sorting race - the order
+## Game 2 - sorting race - the order
 
 1. **alphabetically** by **SECOND** letter of **FIRST** name
 2. **alphabetically** by **THIRD** letter of **LAST** name
@@ -452,57 +708,16 @@ Note: using first names so they get to know each other's name
 
 
 
-##Game 3 - count off
+## Game 3 - Flying Questions Game
 
-- each half of the room will break into X teams
-- down your sorted line count off from 1 to X, repeating until no-one is left
-- group together with people who sounded off the same number
-  - staying on your separate sides of the room
-
-
-
-##Game 4 - Chocolate Game and Flying Questions Game
-
-- Parallel processing
-  - LHS of the room will do Chocolate Game, followed by Flying Questions Game
-  - RHS of the room will do Flying Questions Game, followed by Chocolate Game
-
-<img src="assets/chocolate.jpg" alt="chocolate" height=300>
 <img src="assets/Paper_450x450.jpg" alt="Paper_450x450" height=300>
+<img src="assets/paperPlane.png" alt="paperPlane.png" height=300>
 
-[en.wikipedia.org/wiki/Chocolate](http://en.wikipedia.org/wiki/Chocolate#mediaviewer/File:Chocolate.jp)
 [simple.wikipedia.org/wiki/Paper](http://simple.wikipedia.org/wiki/Paper#mediaviewer/File:Paper_450x450.jpg)
+[commons.wikimedia.org/wiki/File:Paperairplane.png](https://commons.wikimedia.org/wiki/File:Paperairplane.png)
 
 
-##Game 4A - Chocolate Game
-
-- some of you will have played this game before
-- there's some (trivial) logic involved
-
-1. each team will get into a circle
-2. each team come fetch:
-  - a large bar of chocolate in it's wrapper
-    - let me know if you have are allergic to chocolate or nuts or whatever. I have alternative options
-  - a scarf
-  - a hat
-  - a pair of gloves
-  - a knife and a fork
-  - a die
-
-
-###Game play - Chocolate Game
-
-- going round the circle, each person rolls the die
-- if they roll a 6, then:
-  - if someone else already has the hat, scarf, gloves on then make them remove them
-  - put on the hat, scarf, gloves
-  - try to eat the chocolate using only the knife and fork
-    - yum, yum
-- repeat ad nauseam ...
-
-
-
-##Game 4B - Flying Questions Game
+## Game 3 - Flying Questions Game
 
 - giving you (hopefully fun) opportunity to ask questions
   - working in a team
@@ -514,7 +729,7 @@ Note: using first names so they get to know each other's name
   - at least 4 answers per team to the question "why do you want to be here studying Games Computing?")
 
 
-###Game Play - Flying Questions Game
+### Game Play - Flying Questions Game
 
 1. each team will work together
 2. come get a large sheet of paper and a pen
@@ -525,13 +740,13 @@ Note: using first names so they get to know each other's name
 
 
 
-###Flying Questions Game Competition
+### Flying Questions Game Competition
 
 - once both teams have constructed their flying questions
 
 
 
-##Q&A
+## Q&A
 
 - responding to questions and discussing people's answers to "why do you want to be here studying Games Computing?"
 
@@ -539,6 +754,6 @@ Note: using first names so they get to know each other's name
 
 
 
-##Stay behind for a chat if you like
+## Stay behind for a chat if you like
 
 <img src="assets/shearerThom.jpg" alt="shearerThom" height=400>

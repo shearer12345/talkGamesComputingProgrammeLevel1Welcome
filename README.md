@@ -3,6 +3,7 @@
 Talk and activities for Level 1 Welcome event for Games Computing students at the University of Lincoln
 
 - hosted at http://shearer12345.github.io/talkGamesComputingProgrammeLevel1Welcome/
+- source at https://github.com/shearer12345/talkGamesComputingProgrammeLevel1Welcome
 
 ## Building
 
