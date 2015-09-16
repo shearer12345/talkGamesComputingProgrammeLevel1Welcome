@@ -37,7 +37,7 @@
 
 
 
-## John Shearer
+## Dr John Shearer
 
 - Programme Leader for Games Computing
 - Senior Lecturer
@@ -67,7 +67,7 @@ office
 
 
 
-## Patrick Dickinson
+## Dr Patrick Dickinson
 
 - Deputy Programme Leader for Games Computing
 - Principle Lecturer
@@ -90,7 +90,7 @@ email
 
 
 
-## Greg Cielniak
+## Dr Greg Cielniak
 
 - Senior Lecturer
 
@@ -110,7 +110,7 @@ email
 
 
 
-## Andy Cowe
+## Mr Andy Cowe
 
 - Lecturer (part-time)
 
@@ -132,7 +132,7 @@ email
 
 
 
-## Mark Doughty
+## Mr Mark Doughty
 
 - Principal Lecturer
 
@@ -151,7 +151,7 @@ email
 
 
 
-## Kathrin Gerling
+## Dr Kathrin Gerling
 
 - Senior Lecturer
 
@@ -171,7 +171,7 @@ email
 
 
 
-## Ben Kirman
+## Dr Ben Kirman
 
 - Senior Lecturer
 
@@ -196,7 +196,7 @@ their work simultaneously in New Scientist and Your Cat Magazine.
 
 
 
-## Duncan Rowland
+## Dr Duncan Rowland
 
 - Reader in Cultural Computing
 
