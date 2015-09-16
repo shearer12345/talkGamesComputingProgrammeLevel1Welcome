@@ -750,12 +750,23 @@ Note: using first names so they get to know each other's name
 
 - will have to fold/shape your piece of paper to get it as far as possible
   - team who gets their bit of paper the furthest will win prizes each (we'll do this as whole at the end)
-- your paper must fulfil the following criteria:
-  - at least 4 questions (for me to answer) per team
-  - at least 4 answers per team to the question "why do you want to be here studying Games Computing?")
+  - the paper must **FLY** - it cannot take a predominantly ballistic path
+
+<img src="assets/ballistic.gif" alt="ballistic" height=300>
+
+- https://commons.wikimedia.org/wiki/File:Trajectory_for_changing_launch_angle.gif
 
 
-### Game Play - Flying Questions Game
+# Game 3 - Flying Questions Criteria
+
+- your paper must fulfill the following criteria:
+  - 3 (or more) questions (for us to answer) per team
+  - 1 (or more) question(s) per team-member on a folded small piece of paper, in your plane (anonomous)
+  - 4 (or more) answers per team to **"why do you want to be here studying Games Computing?"**
+  - 1 (or more) answers per team to **"how does the learning process work at University?""**
+
+
+## Game Play - Flying Questions Game
 
 1. each team will work together
 2. come get a large sheet of paper and a pen
@@ -774,7 +785,7 @@ Note: using first names so they get to know each other's name
 
 ## Q&A
 
-- responding to questions and discussing people's answers to "why do you want to be here studying Games Computing?"
+- responding to questions and discussing people's answers
 
 <img src="assets/questionMark.jpg" alt="questionMark" height=400>
 
