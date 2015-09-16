@@ -16,7 +16,12 @@
 
 ## Structure
 
-- TODO
+- About Us
+- Showcase
+- Activities this Semester
+- Mundane stuff
+- Games 1 to 4
+- Q&A
 
 
 
@@ -819,10 +824,3 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 ## Stay behind for a chat if you like
 
 <img src="assets/shearerThom.jpg" alt="shearerThom" height=400>
-
-
-# TODO
-
-- structure
-- showcase videos
-- staff pics
