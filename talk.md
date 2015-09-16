@@ -598,6 +598,7 @@ Note: can demo with login=“astudent”, password=“astudent”
   - not always obvious where to look for help
 - Academic/work problems:
   - With a particular module: Lecturer / Module Coordinator (not always the same person)
+  - Your **personal tutor**
   - Your programme leader: Me (John Shearer)
   - Your Head of School: David Cobham
   - You should feel that you can ask any member of staff for advice ...
