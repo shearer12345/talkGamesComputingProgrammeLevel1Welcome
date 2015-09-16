@@ -735,7 +735,28 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 
 
 
-## Game 3 - Flying Questions Game
+## Game 3 - count off
+
+- each half of the room will break into X teams
+- down your sorted line count off from 1 to X, repeating until no-one is left
+- staying on your "sorting race" group:
+  - get together with people who sounded off the same number
+
+<img src="assets/countOff.png" alt="countOff.png" height=400>
+
+
+## Game 3 - count off
+
+  - each half of the room will break into X teams
+  - down your sorted line count off from 1 to X, repeating until no-one is left
+  - staying on your "sorting race" group:
+    - get together with people who sounded off the same number
+
+### X = 4
+
+
+
+## Game 4 - Flying Questions Game
 
 <img src="assets/Paper_450x450.jpg" alt="Paper_450x450" height=300>
 <img src="assets/paperPlane.png" alt="paperPlane.png" height=300>
@@ -744,27 +765,30 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 [commons.wikimedia.org/wiki/File:Paperairplane.png](https://commons.wikimedia.org/wiki/File:Paperairplane.png)
 
 
-## Game 3 - Flying Questions Game
+## Flying Questions Game
 
-- giving you (hopefully fun) opportunity to ask questions
+- giving you (a hopefully fun) opportunity to ask questions
   - working in a team
 
-- will have to fold/shape your piece of paper to get it as far as possible
-  - team who gets their bit of paper the furthest will win prizes each (we'll do this as whole at the end)
+- will have to fold/shape your piece of paper to get it as near as possible to a target
+  - team who gets nearest will win prizes each
   - the paper must **FLY** - it cannot take a predominantly ballistic path
 
 <img src="assets/ballistic.gif" alt="ballistic" height=300>
+<img src="assets/target.svg" alt="target" height=300>
 
 - https://commons.wikimedia.org/wiki/File:Trajectory_for_changing_launch_angle.gif
+- https://commons.wikimedia.org/wiki/File:Archery_Target_80cm.svg
 
 
-# Game 3 - Flying Questions Criteria
+## Criteria
 
-- your paper must fulfill the following criteria:
-  - 3 (or more) questions (for us to answer) per team
-  - 1 (or more) question(s) per team-member on a folded small piece of paper, in your plane (anonomous)
-  - 4 (or more) answers per team to **"why do you want to be here studying Games Computing?"**
-  - 1 (or more) answers per team to **"how does the learning process work at University?""**
+- 3 (or more) questions (for us to answer) per team
+- 1 (or more) question(s) per team-member on a folded small piece of paper, in your plane (anonymous)
+- 4 (or more) answers per team to
+  - **why do you want to be here studying Games Computing?**
+- 1 (or more) answers per team to
+  - **how does the learning process work at University?**
 
 
 ## Game Play - Flying Questions Game
