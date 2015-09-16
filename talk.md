@@ -715,22 +715,23 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
 
 1. The four quarters of the room will race each other to sort themselves (physically) into a specific order (next slide)
   - there will be a sequence of sort constraints, the first is most important, the later ones being use for ambiguous cases
-2. When you think your team is in order, sit down. When your whole team is sitting then jointly shout out **"SORTED!"**
+2. When you think your team is in order:
+  - sit down in a single row
+  - then jointly shout out **"SORTED!"**
 3. We'll then confirm your order.
   - If sorted correctly you win
-  - If not, the other team will win
+  - If not, we'll continue for the the other teams
 
 
 ## Game 2 - sorting race - the order
 
-1. **alphabetically** by **SECOND** letter of **FIRST** name
-2. **alphabetically** by **THIRD** letter of **LAST** name
-3. **numerically** by the **DAY** in the month of **BIRTHDAY**
-4. by **HEIGHT**
+1. **alphabetically** by the **COLOR** of your animal
+2. **alphabetically** by the **TYPE** of your animal
+3. **alphabetically** by the **FORM OF TRANSPORT**
 
-- When you think your team is in order, sit down. When your whole team is sitting then jointly shout out **"SORTED!"**
-
-Note: using first names so they get to know each other's name
+  - When you think your team is in order:
+  - sit down in a single row
+  - then jointly shout out **"SORTED!"**
 
 
 
