@@ -40,8 +40,6 @@
 <img src="assets/shearer.jpg" alt="Shearer" height=300>
 <img src="assets/shearerTreeJump.jpg" alt="Shearer" height=300>
 
-### Contact Details
-
 email
 : **jshearer@lincoln.ac.uk**
 
@@ -77,19 +75,33 @@ email
 
 ### Bio
 
+<img src="assets/dickinson1.jpg" alt="dickinson" height=200>
+<img src="assets/dickinson2.jpg" alt="dickinson" height=200>
+<img src="assets/dickinson3.jpg" alt="dickinson" height=200>
+
+- Experience games developer
+- Working at Rebellion Developments, and Awesome Developments
+- Worked on: Aliens Vs Predator (PC, 2000), Jimmy White’s 2: Cueball (1999, PC, Playstation), Jimmy White’s Cueball World (2002, PC, Dreamcast).
+
 
 
 ## Greg Cielniak
 
 - Senior Lecturer
 
-<img src="assets/cielniak.jpg" alt="cielniak" height=300>
+<img src="assets/cielniak.png" alt="cielniak" height=300>
 
 email
 : **gcielniak@lincoln.ac.uk**
 
 
 ### Bio
+
+<img src="assets/cielniak1.png" alt="cielniak" height=200>
+<img src="assets/cielniak2.jpg" alt="cielniak" height=200>
+<img src="assets/cielniak3.jpg" alt="cielniak" height=200>
+
+- Research interests include mobile robotics, machine perception, AI and in particular applications in agricultural robotics and food technology
 
 
 
@@ -105,6 +117,14 @@ email
 
 ### Bio
 
+<img src="assets/cowe2.png" alt="cowe" height=200>
+<img src="assets/cowe1.jpg" alt="cowe" height=200>
+<img src="assets/cowe3.png" alt="cowe" height=200>
+
+- Experienced game developer
+- Worked in design roles for Acclaim, Jester Interactive, Empire Interactive, VIS Entertainment, Atari, and Hands-On Mobile
+- Now an independent developer at Moonjump, creator of mobile games
+
 
 
 ## Mark Doughty
@@ -119,6 +139,11 @@ email
 
 ### Bio
 
+<img src="assets/doughty1.jpg" alt="doughty" height=200>
+<img src="assets/doughty2.png" alt="doughty" height=200>
+
+- social computing, zen and the art of motor racing
+
 
 
 ## Kathrin Gerling
@@ -132,6 +157,12 @@ email
 
 
 ### Bio
+
+<img src="assets/gerling1.png" alt="gerling" height=200>
+<img src="assets/gerling2.png" alt="gerling" height=200>
+<img src="assets/gerling3.png" alt="gerling" height=200>
+
+- Research interests in human-computer interaction (HCI) and accessibility
 
 
 
@@ -668,6 +699,7 @@ Note: need to split into two teams - doing with Rock-Paper-Scissors
   - stay on your side of the room
 
 Note: need to split into two teams - doing with Rock-Paper-Scissors
+
 
 
 ## Game 2 - sorting race
