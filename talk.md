@@ -1,17 +1,8 @@
-# Welcome
+## Welcome to Games Computing
 
-## to Games Computing
+<img src="assets/spaceWar.jpg" alt="gameOver"       height=400>
+<img src="assets/forzaHorizons3.jpg" alt="gameOver" height=400>
 
-- hosted at http://shearer12345.github.io/talkGamesComputingProgrammeLevel1Welcome/
-- source at https://github.com/shearer12345/talkGamesComputingProgrammeLevel1Welcome
-
-
-## Overview
-
-- we're going to play a bunch of games during this session
-  - WOOT!!
-  - we'll have some prizes
-- we'll do some mundane stuff too - sorry
 
 
 ## Structure
@@ -20,7 +11,7 @@
 - Showcase
 - Activities this Semester
 - Mundane stuff
-- Games 1 to 4
+- Game
 - Q&A
 
 
@@ -32,7 +23,8 @@
 ## Games @ IntLab
 
 - most of your games specific modules are taught by people active in games-related research
-- these people are members on the Games subgroup of the Interactive Technologies Lab (IntLab)
+- these people are members on the Games subgroup of the Interactive Technologies Lab (intLab)
+  - http://intlab.lincoln.ac.uk
   - http://games.lincoln.ac.uk
 
 
@@ -84,8 +76,8 @@ email
 <img src="assets/dickinson2.jpg" alt="dickinson" height=200>
 <img src="assets/dickinson3.jpg" alt="dickinson" height=200>
 
-- Experience games developer
-- Working at Rebellion Developments, and Awesome Developments
+- Experienced games developer
+- Worked at Rebellion Developments, and Awesome Developments
 - Worked on: Aliens Vs Predator (PC, 2000), Jimmy White’s 2: Cueball (1999, PC, Playstation), Jimmy White’s Cueball World (2002, PC, Dreamcast).
 
 
@@ -110,7 +102,7 @@ email
 
 
 
-## Mr Andy Cowe
+## Andy Cowe
 
 - Lecturer (part-time)
 
@@ -132,7 +124,7 @@ email
 
 
 
-## Mr Mark Doughty
+## Mark Doughty
 
 - Principal Lecturer
 
@@ -171,28 +163,25 @@ email
 
 
 
-## Dr Ben Kirman
+## Chris Headleand
 
 - Senior Lecturer
 
-<img src="assets/kirman1.png" alt="rowland" height=300>
-<img src="assets/kirman2.jpg" alt="rowland" height=300>
+<img src="assets/headleand.jpg" alt="headleand" height=300>
 
 email
-: **bkirman@lincoln.ac.uk**
+: **cheadleand@lincoln.ac.uk**
 
 
 ### Bio
 
-> Twice capped playing for England in the World Egg Throwing
-Championships. Published science fiction, punk songs and homoerotic
-fiction in a major computer science conference, father of the Dog
-Internet and the only computing academic to have had articles about
-their work simultaneously in New Scientist and Your Cat Magazine.
+<img src="assets/headleand_thing1.jpg" alt="headleand" height=200>
+<img src="assets/headleand_thing2.png" alt="headleand" height=200>
+<img src="assets/headleand_thing3.png" alt="headleand" height=200>
+<img src="assets/headleand_thing4.png" alt="headleand" height=200>
 
-<img src="assets/kirmanNLFS.jpg" alt="kirman" height=200>
-<img src="assets/kirman3.png" alt="kirman" height=200>
-<img src="assets/kirman4.jpg" alt="kirman" height=200>
+- Interested in virtual humans and recreating social phenomenon with AI.
+- Director for two companies, Ogwen Publishing and Picselica VR
 
 
 
@@ -220,6 +209,30 @@ email
 - MA Fine Art - http://issuu.com/duncanrowland/docs/carry_on_regardless/18
 - Art Show Contributions - http://neoalgorist.org/killers/
 - Curatorial Practice
+
+
+
+## Richard Wetzel
+
+- Senior Lecturer
+
+<img src="assets/wetzel1.jpg" alt="headleand" height=300>
+
+email
+: **rwetzel@lincoln.ac.uk**
+
+
+### Bio
+
+<img src="assets/wetzel_thing1.jpg" alt="rowland" height=200>
+<img src="assets/wetzel_thing2.jpg" alt="rowland" height=200>
+<img src="assets/wetzel_thing3.jpg" alt="rowland" height=200>
+
+- TimeWarp - augmented reality time travel game in the Old Town of Cologne (in 2010!)
+- Studying curse breaking at Czocha College of Witchcraft and Wizardry (2015)
+- Genesis of Cr0n - alternate reality game at GameCity (2014)
+- Mixed Reality Game Cards - ideation cards for collaborative design of mixed reality games (2016)
+- Research interests: mixed reality, pervasive games, game design, playfulness, ideation
 
 
 
@@ -255,19 +268,18 @@ email
 
 
 
-## Game city trip
+## Possible Game city trip
 
-- http://gamecity.org/
+- http://gamecity.org/festival/
 
 <img src="assets/gameCity.png" alt="gameCity" height=600>
 
 
-### GameCity 10
-### **Thursday 22 - Saturday 31 October 2015**
+### GameCity
+### **Wednesday 26th - Saturday 29th October 2016**
 ### Nottingham, UK
 
 > At last, a videogame festival for everybody.
-  - http://gamecity.org/open-is-open/
 
 <img src="assets/nva.png" alt="gameCity" height=300>
 
@@ -284,72 +296,22 @@ email
  <img src="assets/gameCity2.png" alt="gameCity" height=300>
 
 
-### Details to be announced
+### Interested in us (or you) organising a trip
 
-- Watch for Blackboard announcements
-- All Computer Science students will be invited
-  - Games Computing
-  - Computer Science
-  - Computer Information Systems
-  - Social Computing
-- We'll be booking (free) coaches to/from Nottingham
+- i.e. us booking (probably free) coaches to/from Nottingham
 
 <img src="assets/coach.jpg" alt="coach" height=300>
 
 
 
-## Frequency festival
-
-**In LINCOLN !!!**  23 OCTOBER - 1 NOVEMBER 2015
-
-<img src="assets/frequencyFestival1.png" alt="frequencyFestival" height=600>
-
-
-## #freq15
-
-> The third edition of Frequency Festival returns to light up Lincoln with extraordinary art exhibitions, interactive performances, and lively conversations. With free events taking place across the city, there will be something for everyone to discover, as we explore ideas of digital liberation.
-
-- http://frequency.org.uk/
-
-
-### go along
-
-- our own "Taphobos" is showing at the weekends
-
-<img src="assets/taphobos.jpg" alt="taphobos" height=250>
-<img src="assets/taphobos2.png" alt="taphobos" height=250>
-<img src="assets/taphobos3.jpg" alt="taphobos" height=250>
-
-- http://taphobos.com/
-
-
-### volunteer
-
-- get involved, help out, meet people, have fun
-- email me if you'd like to volunteer and I'll pass on your details
-  - jshearer@lincoln.ac.uk
-
-
-### guest lecture from **seeper**
-
-- we're working to get a guest lecture / Q&A session / something with seeper
-  - seeper are showing at Frequency Festival
-
-<iframe class="stretch" src="http://player.vimeo.com/video/17113916?title=0" ></iframe>
-
-
-### plan stuff for **frequencyFestival 2017** !!!!!!
-
-- We'll be getting much more involved in Frequency Festival 2017
-  - building games and other interactive experiences for 2017
-
-
-
-## Game jams
+## Game jams / Hackathons
 
 - we facilitate these through the year
-- you can organise them also if you like (usually weeks)
+  - including Global Game January in the new year
+- you can organise them also if you like (usually weekends)
 - will be announced through blackboard
+- some have prizes, some don't
+- GREAT for portfolio
 
 <img src="assets/gamejam.png" alt="gamejam" height=300>
 
@@ -365,20 +327,347 @@ email
 ## Programme Leader Role
 
 - Point of contact for students who have difficulties related to the programme
+  - BUT your personal tutor is your contact for personal or academic issues
+  - or your module delivery team for academic aspects
 - Oversee pastoral care of students
 - Manage health and wellbeing of programmes
 - Respond to issues raised by students and staff of a programme nature
 
 
-## We will look at...
 
-- The programmes
+## We will look (briefly) at...
+
+- The programme for this year
 - Timetables
 - Where things are
 - Facilities in the School
 - SoCS Computing Laboratories: rules, etiquette, etc.
 - A bit about using computers in the University
 - How you should approach studying at University
+
+
+
+## Level 1 Modules
+
+| Module | Semesters | CATS |
+|---|---|---|
+| Programming and Data Structures | A&B | 30 |
+| Personal Tutoring (non-assessed) | A&B | n/a |
+| Maths for Computing | A | 15 |
+| Web Authoring | A | 15 |
+| Introductory Game Studies | A | 15 |
+| Computer Architectures | B | 15 |
+| Algorithms and Complexity | B | 15 |
+| Game Design  | B | 15 |
+
+
+
+## Timetables
+
+- Your timetable should be available when you log on to the university computer system
+- Or via blackboard
+- You are studying **4 modules** this semester
+- Each module should have a lecture (1 or 2 hours) & a workshop session (1 or 2 hours)
+- Workshops: Usually in Lab A and B
+- You are expected to attend all timetabled sessions: attendance is monitored
+- Week1: You only have workshops in Week 1 if after the lecture for that module ...
+
+
+
+## Where things are
+
+- the School of Computer Science is mainly based on the third floor of MHT building
+  - computing labs
+  - most of your lecturer's offices (but not all)
+  - college office (admin)
+- Lab sessions always on the third floor, though swipe-card door
+
+
+
+## Lab Facilities
+
+- 3 Computing Labs: 3rd floor MHT building
+- Not running campus install, we manage them and they're on their own subnet
+- All used for workshops, but you can also use them when there are no timetabled workshop sessions on
+
+
+### Lab Facilities 2
+
+- The PCs are all high-spec
+  - they are not all identical between labs
+  - they should all have the same software on (in general)
+- All use the username "computing" with the password "computing"
+  - these are **NOT** private logins (yet ...)
+
+<img src="assets/geforce-gtx-970-header-vr-ready.png" alt="gpu" height=300>
+
+
+
+## Lab Etiquette
+
+- If a workshop session is on - vacate the lab, or do not enter
+- **Store your work somewhere reliable** - **IMPORTANT**
+  - SkyDrive
+  - github/bitbucket/gitlab
+  - a memory stick (though they are **NOT** reliable and get lost)
+  - losing your work is not an accepted excuse for missed work
+- Consider the machines as non-private, don't store passwords etc
+- Remember to logout from web-services (e.g. facebook, twitter, ...)
+  - browsers are in incognito mode by default to help
+- The computers are regularly re-ghosted (any work saved on the local hard-drive will disappear)
+- Don't bring food and drink into the lab
+- Treat it like a professional dev studio
+
+
+
+## Other Equipment
+
+- Robotics stuff (some new fancy ones, a bunch of Rovios and Roombas kicking around), Lego NXT
+- Quadcopters (John Murray)
+- Mobile phones
+- VR headsets (Oculus Rifts (DK1, DK2), HTC Vives ...) + we'll be getting more
+- Ouyas
+- Kinects (1 annd 2)
+- Some Macs
+- Raspberry Pis (various)
+- random other stuff - keep your eyes open. Talk to people
+
+
+
+## Blackboard
+
+<img src="assets/blackboard.jpg" alt="blackboard" height=100>
+
+- Blackboard is the online learning environment used by the University.
+- On Blackboard you will find:
+  - Sections for the modules you are studying this semester: lecture notes, workshop materials, etc.
+  - announcements, your timetable, etc.
+- Most assessments are submitted electronically through Blackboard.
+- You can (should) test Blackboard on Friday
+
+Note: can demo with login=“astudent”, password=“astudent”
+
+
+
+## Library
+
+- Next to the Engine Shed
+- To log into the library system
+  - http://www.library.lincoln.ac.uk
+  - Separate username and PIN number (check emailed)
+  - Access catalogue, reserve/renew books, access e-books
+- Subject Librarian: Carole Bee
+- READ BOOKS and other stuff!!!
+
+<img src="assets/book2.jpg" alt="book2" height=250>
+<img src="assets/library.png" alt="library" height=250>
+<img src="assets/book1.jpg" alt="book1" height=250>
+
+
+
+## Printing
+
+- Large printers around the university
+- You can print from any "standard" computer on campus, and collect from any printer
+  - Or from our Labs
+- To use printers:
+  - login using library username and PIN
+
+
+
+## What if I have a Problem?
+
+- Extensive support structure in the University
+  - not always obvious where to look for help
+- Academic/work problems:
+  - With a particular module: Lecturer / Module Coordinator (not always the same person)
+  - Your **personal tutor**
+  - Your programme leader: Me (John Shearer)
+  - Your Head of School: presently Kevin Jackques (acting HoS)
+  - You should feel that you can ask any member of staff for advice ...
+    - this is part of all the staff members' jobs
+- Non-Academic: Student Support Centre (Main Academic Building)
+- **Remember: issues during Uni are common. Seek help/advice**
+
+
+
+## Finding and contacting staff
+
+- We, like you, are busy people
+- We are not always in our offices
+- Arrange meetings by email
+- Write professional emails ... with our, and your names!!
+- http://www.lincoln.ac.uk/home/socs/schoolstaff/
+
+<img src="assets/email.png" alt="email" height=250>
+
+
+
+## Extra Curricula Activities
+
+- "is this part of our assessment?"
+  - Remember why you are here!
+
+- Games jams, game challenges, workshops, competitions...
+- Build your portfolio
+- Discover your interests
+  - sports and societies
+  - etc. etc.
+
+<img src="assets/workLifeBalance.jpg" alt="email" height=250>
+
+
+
+## Expectations
+
+- Ours?
+  - That you tell someone if you have a problem
+  - That you attend timetabled sessions
+  - That you follow lab rules
+  - That you submit assessments on time
+  - **That you treat other staff and students appropriately**
+  - That you are enthusiastic!
+- Yours?
+  - ??
+  - of us?
+  - of each other?
+  - of Uni?
+
+
+## Advice
+
+- Games industry is competitive
+- Work outside your timetabled hours
+  - i.e. 38-40 hours a week ...
+- Find your interests
+  - Level design, modding, hacking, mobile computing, etc
+  - Your lecturers do more than teach
+- If you have a problem, tell someone
+- Talk to people
+- Read
+
+
+
+## Game Time
+
+<img src="assets/game_time_by_misslunaviolet-d62z394.jpg" alt="game_time_by_misslunaviolet-d62z394" height=400>
+
+[misslunaviolet.deviantart.com](http://misslunaviolet.deviantart.com/art/Game-Time-36779346)
+
+
+
+## FINALLY !!!
+
+
+
+## Game 1 - another silly binary split
+
+1. Get into pairs - with your new friends who are near you
+
+
+## Game 1 - Rock-Paper-Scissors
+
+1. Get into pairs - with your new friends who are near you
+2. Play Rock-Paper-Scissors, best of 3 in your pair
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+3. All victors on LHS of the room, everyone else on the RHS
+  - your left/right, not my left/right
+
+Note: need to split into two teams - doing with Rock-Paper-Scissors
+
+
+## Game 1.1 - Rock-Paper-Scissors (again)
+
+1. Find a new partner (on your side of the room)
+2. Play Rock-Paper-Scissors, best of 3 in your pair
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+3. Stay on your **side** of the room
+4. All victors to front of the room, everyone else to the back
+  - we should now have 4 groups
+
+
+## Game 1.2 - Rock-Paper-Scissors (again, again)
+
+1. Find another new partner (in your group)
+2. Play Rock-Paper-Scissors, best of 3 in your pair
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+  - 3,2,1,Shoot
+3. Stay on your **group** of the room
+4. All victors from each group get together, other also (but separately)
+  - we should now have 8 groups
+
+
+
+## Game 2 - Flying Questions Game
+
+<img src="assets/Paper_450x450.jpg" alt="Paper_450x450" height=300>
+<img src="assets/paperPlane.png" alt="paperPlane.png" height=300>
+
+[simple.wikipedia.org/wiki/Paper](http://simple.wikipedia.org/wiki/Paper#mediaviewer/File:Paper_450x450.jpg)
+[commons.wikimedia.org/wiki/File:Paperairplane.png](https://commons.wikimedia.org/wiki/File:Paperairplane.png)
+
+
+## Flying Questions Game
+
+- giving you (a hopefully fun) opportunity to ask questions
+  - working in a team
+
+- will have to fold/shape your piece of paper to get it as near as possible to a target
+  - team who gets nearest will win prizes each
+  - the paper must **FLY** - it cannot take a predominantly ballistic path
+
+<img src="assets/ballistic.gif" alt="ballistic" height=300>
+<img src="assets/target.svg" alt="target" height=300>
+
+- https://commons.wikimedia.org/wiki/File:Trajectory_for_changing_launch_angle.gif
+- https://commons.wikimedia.org/wiki/File:Archery_Target_80cm.svg
+
+
+## Criteria
+
+- 1 (or more) questions (for us to answer) per team
+- 4 (or more) answers per team to
+  - **why do you want to be here studying Games Computing?**
+  - OR **how does this programme fit into your future plans?**
+- 1 (or more) answers per team to
+  - **how does the learning process work at University?**
+
+
+## Game Play - Flying Questions Game
+
+1. each team will work together
+2. come get a large sheet of paper and a pen
+3. you will have 5 minutes total
+  - write your Q&A on the sheet
+  - make the sheet so it will "fly"
+
+
+
+## Q&A
+
+- responding to questions and discussing people's answers
+
+<img src="assets/gameOver.jpg" alt="gameOver" height=200>
+<img src="assets/questionMark.jpg" alt="questionMark" height=300>
+
+
+
+## Stay behind for a chat if you like
+
+<img src="assets/shearerThom.jpg" alt="shearerThom" height=200>
+
+- hosted at http://shearer12345.github.io/talkGamesComputingProgrammeLevel1Welcome/
+- source at https://github.com/shearer12345/talkGamesComputingProgrammeLevel1Welcome
+
+
+
+## Extra
+
 
 
 
@@ -486,342 +775,3 @@ email
 | Computer Vision | B | 15 |
 | Machine Learning | B | 15 |
 | **other M variants** | | |
-
-
-
-## Timetables
-
-- Your timetable should be available when you log on to the university computer system
-- Or via blackboard
-- You are studying **4 modules** this semester
-- Each module should have a lecture (1 or 2 hours) & a workshop session (1 or 2 hours)
-- Workshops: Usually in Lab A and B
-- You are expected to attend all timetabled sessions: attendance is monitored
-- Week1: You only have workshops in Week 1 if after the lecture for that module ...
-
-
-
-## Where things are
-
-- the School of Computer Science is mainly based on the third floor of MHT building
-  - computing labs
-  - most of your lecturer's offices (but not all)
-  - college office (admin)
-- Lab sessions always on the third floor, though "pass key" door
-
-
-
-## Lab Facilities
-
-- 3 Computing Labs: 3rd floor MHT building
-- Not running campus install, we manage them and they're on their own subnet
-- All used for workshops, but you can also use them when there are no timetabled workshop sessions on
-- The PCs are all high-spec.
-  - they are not all identical between labs
-  - they should all have the same software on (in general)
-- All use the username "computing" with the password "computing"
-  - these are **NOT** private logins, but give you admin rights
-
-
-## Lab Etiquette
-
-- If a workshop session is on - vacate the lab, or do not enter
-- **Store your work somewhere reliable** - **IMPORTANT**
-  - SkyDrive
-  - github/bitbucket/gitlab
-  - a memory stick (though they are **NOT** reliable and get lost)
-  - losing your work is not an accepted excuse for missed work
-- Consider the machines as non-private, don't store passwords etc
-- Remember to logout from web-services (e.g. facebook, twitter, ...)
-- The computers are regularly re-ghosted (any work saved on the local hard-drive will disappear)
-- Don't bring food and drink into the lab
-- Treat it like a professional dev studio
-
-
-## Other Equipment
-
-- Robotics stuff (some new fancy ones, a bunch of Rovios and Roombas kicking around), Lego NXT
-- Quadcopters (John Murray)
-- Mobile phones
-- VR headsets (Oculus Rifts, ...) + we'll be getting more
-- Ouyas
-- Kinects
-- Some Macs
-- Raspberry Pis
-- random other stuff - keep your eyes open. Talk to people
-
-
-
-## Blackboard
-
-<img src="assets/blackboard.jpg" alt="blackboard" height=100>
-
-- Blackboard is the online learning environment used by the University.
-- On Blackboard you will find:
-  - Sections for the modules you are studying this semester: lecture notes, workshop materials, etc.
-  - announcements, your timetable, etc.
-- Most assessments are submitted electronically through Blackboard.
-- You can (should) test Blackboard on Friday
-
-Note: can demo with login=“astudent”, password=“astudent”
-
-
-
-## Library
-
-- Next to the Engine Shed
-- To log into the library system
-  - http://www.library.lincoln.ac.uk
-  - Separate username and PIN number (check emailed)
-  - Access catalogue, reserve/renew books, access e-books
-- Subject Librarian: Carole Bee
-- READ BOOKS and other stuff!!!
-
-<img src="assets/book2.jpg" alt="book2" height=250>
-<img src="assets/library.png" alt="library" height=250>
-<img src="assets/book1.jpg" alt="book1" height=250>
-
-
-## Printing
-
-- Large printers around the university
-- You can print from any "standard" computer on campus, and collect from any printer
-  - Or from our Labs
-- To use printers:
-  - login using library username and PIN
-
-
-
-## What if I have a Problem?
-
-- Extensive support structure in the University
-  - not always obvious where to look for help
-- Academic/work problems:
-  - With a particular module: Lecturer / Module Coordinator (not always the same person)
-  - Your **personal tutor**
-  - Your programme leader: Me (John Shearer)
-  - Your Head of School: David Cobham
-  - You should feel that you can ask any member of staff for advice ...
-    - this is part of all the staff members' jobs
-- Non-Academic: Student Support Centre (Main Academic Building)
-- **Remember: issues during Uni are common. Seek help/advice**
-
-
-
-## Finding and contacting staff
-
-- We, like you, are busy people
-- We are not always in our offices
-- Arrange meetings by email
-- Write professional emails ... with our, and your names!!
-- http://www.lincoln.ac.uk/home/socs/schoolstaff/
-
-<img src="assets/email.png" alt="email" height=250>
-
-
-
-## Extra Curricula Activities
-
-- "is this part of our assessment?"
-  - Remember why you are here!
-
-- Games jams, game challenges, workshops, competitions...
-- Build your portfolio
-- Discover your interests
-  - sports and societies
-  - etc. etc.
-
-<img src="assets/workLifeBalance.jpg" alt="email" height=250>
-
-
-
-## Expectations
-
-- Ours?
-  - That you tell someone if you have a problem
-  - That you attend timetabled sessions
-  - That you follow lab rules
-  - That you submit assessments on time
-  - **That you treat other staff and students appropriately**
-  - That you are enthusiastic!
-- Yours?
-  - ??
-  - of us?
-  - of each other?
-  - of Uni?
-
-
-## Advice
-
-- Games industry is competitive
-- Work outside your timetabled hours
-  - i.e. 38-40 hours a week ...
-- Find your interests
-  - Level design, modding, hacking, mobile computing, etc
-  - Your lecturers do more than teach
-- If you have a problem, tell someone
-- Talk to people
-- Read
-
-
-
-## Game Time
-
-<img src="assets/game_time_by_misslunaviolet-d62z394.jpg" alt="game_time_by_misslunaviolet-d62z394" height=400>
-
-[misslunaviolet.deviantart.com](http://misslunaviolet.deviantart.com/art/Game-Time-36779346)
-
-
-
-## FINALLY !!!
-
-
-
-## Game 1
-
-1. Get into pairs - with your new friends who are near you
-
-
-## Game 1 - Rock-Paper-Scissors
-
-1. Get into pairs - with your new friends who are near you
-2. Play Rock-Paper-Scissors, best of 3 in your pair
-  - 3,2,1,Shoot
-  - 3,2,1,Shoot
-  - 3,2,1,Shoot
-3. All victors on LHS of the room, everyone else on the RHS
-
-Note: need to split into two teams - doing with Rock-Paper-Scissors
-
-
-## Game 1.5 - Rock-Paper-Scissors (again)
-
-1. Find a new partner (on your side of the room)
-2. Play Rock-Paper-Scissors, best of 3 in your pair
-  - 3,2,1,Shoot
-  - 3,2,1,Shoot
-  - 3,2,1,Shoot
-3. All victors on front of the room, everyone else to the back
-  - stay on your side of the room
-
-Note: need to split into two teams - doing with Rock-Paper-Scissors
-
-
-
-## Game 2 - sorting race
-
-- a vaguely Computer Science related game
-
-<img src="assets/800px-Light_on_cinema_queue.jpg" alt="800px-Light_on_cinema_queue" height=400>
-
-[Light_on_cinema_queue](http://commons.wikimedia.org/wiki/File:Light_on_cinema_queue.jpg)
-
-
-## Game 2 - sorting race
-
-1. The four quarters of the room will race each other to sort themselves (physically) into a specific order (next slide)
-  - there will be a sequence of sort constraints, the first is most important, the later ones being use for ambiguous cases
-2. When you think your team is in order:
-  - sit down in a single row
-  - then jointly shout out **"SORTED!"**
-3. We'll then confirm your order.
-  - If sorted correctly you win
-  - If not, we'll continue for the the other teams
-
-
-## Game 2 - sorting race - the order
-
-1. **alphabetically** by the **COLOR** of your animal
-2. **alphabetically** by the **TYPE** of your animal
-3. **alphabetically** by the **FORM OF TRANSPORT**
-
-  - When you think your team is in order:
-  - sit down in a single row
-  - then jointly shout out **"SORTED!"**
-
-
-
-## Game 3 - count off
-
-- each half of the room will break into X teams
-- down your sorted line count off from 1 to X, repeating until no-one is left
-- staying on your "sorting race" group:
-  - get together with people who sounded off the same number
-
-<img src="assets/countOff.png" alt="countOff.png" height=400>
-
-
-## Game 3 - count off
-
-  - each half of the room will break into X teams
-  - down your sorted line count off from 1 to X, repeating until no-one is left
-  - staying on your "sorting race" group:
-    - get together with people who sounded off the same number
-
-### X = 4
-
-
-
-## Game 4 - Flying Questions Game
-
-<img src="assets/Paper_450x450.jpg" alt="Paper_450x450" height=300>
-<img src="assets/paperPlane.png" alt="paperPlane.png" height=300>
-
-[simple.wikipedia.org/wiki/Paper](http://simple.wikipedia.org/wiki/Paper#mediaviewer/File:Paper_450x450.jpg)
-[commons.wikimedia.org/wiki/File:Paperairplane.png](https://commons.wikimedia.org/wiki/File:Paperairplane.png)
-
-
-## Flying Questions Game
-
-- giving you (a hopefully fun) opportunity to ask questions
-  - working in a team
-
-- will have to fold/shape your piece of paper to get it as near as possible to a target
-  - team who gets nearest will win prizes each
-  - the paper must **FLY** - it cannot take a predominantly ballistic path
-
-<img src="assets/ballistic.gif" alt="ballistic" height=300>
-<img src="assets/target.svg" alt="target" height=300>
-
-- https://commons.wikimedia.org/wiki/File:Trajectory_for_changing_launch_angle.gif
-- https://commons.wikimedia.org/wiki/File:Archery_Target_80cm.svg
-
-
-## Criteria
-
-- 3 (or more) questions (for us to answer) per team
-- 1 (or more) question(s) per team-member on a folded small piece of paper, in your plane (anonymous)
-- 4 (or more) answers per team to
-  - **why do you want to be here studying Games Computing?**
-- 1 (or more) answers per team to
-  - **how does the learning process work at University?**
-
-
-## Game Play - Flying Questions Game
-
-1. each team will work together
-2. come get a large sheet of paper and a pen
-3. you will have 10 minutes total
-  - first 3 minutes, no pens, just discuss
-  - then 7 minutes to write questions and answers and fold/shape your paper.
-  - I'll stop you and we'll put your folded/shaped paper aside for the competition at the end
-
-
-
-### Flying Questions Game Competition
-
-- once both teams have constructed their flying questions
-
-
-
-## Q&A
-
-- responding to questions and discussing people's answers
-
-<img src="assets/questionMark.jpg" alt="questionMark" height=400>
-
-
-
-## Stay behind for a chat if you like
-
-<img src="assets/shearerThom.jpg" alt="shearerThom" height=400>
