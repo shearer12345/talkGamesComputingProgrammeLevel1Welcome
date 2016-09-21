@@ -3,6 +3,8 @@
 <img src="assets/spaceWar.jpg" alt="gameOver"       height=400>
 <img src="assets/forzaHorizons3.jpg" alt="gameOver" height=400>
 
+- 2016 start
+
 
 
 ## Structure
@@ -11,7 +13,7 @@
 - Showcase
 - Activities this Semester
 - Mundane stuff
-- Game
+- Game(s)
 - Q&A
 
 
@@ -20,7 +22,7 @@
 ### your games specific staff
 
 
-## Games @ IntLab
+## Games @ intLab
 
 - most of your games specific modules are taught by people active in games-related research
 - these people are members on the Games subgroup of the Interactive Technologies Lab (intLab)
@@ -62,7 +64,7 @@ office
 ## Dr Patrick Dickinson
 
 - Deputy Programme Leader for Games Computing
-- Principle Lecturer
+- Principle Lecturer (Enterprise)
 
 <img src="assets/dickinson.jpg" alt="dickinson" height=300>
 
@@ -78,7 +80,8 @@ email
 
 - Experienced games developer
 - Worked at Rebellion Developments, and Awesome Developments
-- Worked on: Aliens Vs Predator (PC, 2000), Jimmy White’s 2: Cueball (1999, PC, Playstation), Jimmy White’s Cueball World (2002, PC, Dreamcast).
+- Worked on: Aliens Vs Predator (PC, 2000), Jimmy White's 2: Cueball (1999, PC, Playstation), Jimmy White's Cueball World (2002, PC, Dreamcast).
+- Interests include Computer Vision and Crowd Simulation
 
 
 
@@ -165,7 +168,7 @@ email
 
 ## Chris Headleand
 
-- Senior Lecturer
+- Lecturer
 
 <img src="assets/headleand.jpg" alt="headleand" height=300>
 
@@ -268,14 +271,14 @@ email
 
 
 
-## Possible Game city trip
+## Possible Game city trip ???
 
 - http://gamecity.org/festival/
 
 <img src="assets/gameCity.png" alt="gameCity" height=600>
 
 
-### GameCity
+### GameCity 11
 ### **Wednesday 26th - Saturday 29th October 2016**
 ### Nottingham, UK
 
@@ -548,6 +551,14 @@ Note: can demo with login=“astudent”, password=“astudent”
 
 
 
+##A Learning Community
+
+<img src="assets/1240px-One_world_many_stories.svg.png" alt="One_world_many_stories" height=600>
+
+- source: https://commons.wikimedia.org/wiki/File:One_world_many_stories.svg
+
+
+
 ## Game Time
 
 <img src="assets/game_time_by_misslunaviolet-d62z394.jpg" alt="game_time_by_misslunaviolet-d62z394" height=400>
@@ -560,12 +571,7 @@ Note: can demo with login=“astudent”, password=“astudent”
 
 
 
-## Game 1 - another silly binary split
-
-1. Get into pairs - with your new friends who are near you
-
-
-## Game 1 - Rock-Paper-Scissors
+## Game 1 - another silly binary split (Rock-Paper-Scissors)
 
 1. Get into pairs - with your new friends who are near you
 2. Play Rock-Paper-Scissors, best of 3 in your pair
