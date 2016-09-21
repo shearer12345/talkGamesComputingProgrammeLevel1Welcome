@@ -258,8 +258,10 @@ email
   - **Kieran Hicks** and Sean Oxspring
 - for sale on itch.io NOW
   - http://oxyoxspring.itch.io/hashtag-dungeon
-- for sale on Steam!!! from October 14th 2015
-- ANY QUESTIONS for Kieran ??
+- for sale on Steam!!! NOW!!
+  - http://store.steampowered.com/app/342130/
+- 7k activations
+- 16k copies sold through bundles
 
 
 
